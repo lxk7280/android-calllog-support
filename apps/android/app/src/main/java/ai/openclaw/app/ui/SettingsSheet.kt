@@ -670,6 +670,10 @@ fun SettingsSheet(viewModel: MainViewModel) {
                 }
               },
             )
+          }
+        }
+      }
+
       // ── Location ──
       item {
         Text(
